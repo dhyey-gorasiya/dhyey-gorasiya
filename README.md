@@ -6,7 +6,9 @@
 <img align="right" alt="image" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br>
 
-- 🔭 I’m currently doing **MCA From LJ University, Ahmedabad.**
+- 💼 I currently working on **Spectra Technovision, Ahmedabad.**
+
+- 🔭 I completed my **MCA From LJ University, Ahmedabad.**
 
 - 🌱 I’m currently learning **Frontend Web Devlopment.**
 
@@ -27,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhyey-gorasiya&show_icons=true&locale=en&layout=compact" alt="dhyey-gorasiya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhyey-gorasiya&show_icons=true&locale=en" alt="dhyey-gorasiya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhyey-gorasiya&" alt="dhyey-gorasiya" /></p>
